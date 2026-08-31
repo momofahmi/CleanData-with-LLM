@@ -1,7 +1,6 @@
 # Hybrid Statistical-LLM Agent for Tabular Data Cleaning
 
-MSc dissertation project (University of Surrey, 2026). An LLM cleaning agent is
-paired with a statistical audit module so it can repair distribution-level
+An LLM cleaning agent is paired with a statistical audit module so it can repair distribution-level
 errors: systematic shifts, conditional overwrites, structured deletions.
 
 (NO API key needed for mode stats only)
