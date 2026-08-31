@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.zip
+data/*_dirty.csv
+data/*_ground_truth.json
+sandbox/
+runs/*/train.csv
+runs/*/train_cleaned*.csv
+.DS_Store
