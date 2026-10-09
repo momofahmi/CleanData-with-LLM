@@ -58,7 +58,7 @@ folder with the transcript, the report, the summary and the submitted files.
 
 ## Scale
 
-The dissertation archives 72 runs. One agentic run uses about 200k tokens. The whole study took
+72 runs. One agentic run uses about 200k tokens. The whole study took
 around 1,800 API requests and 19 million tokens over two months.
 
 ## Not in this repository
